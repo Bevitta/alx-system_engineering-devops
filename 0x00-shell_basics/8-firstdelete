@@ -1,1 +1,2 @@
-#!/bin/bash                                                                                                                             rm /tmp/my_first_folder/betty 
+#!/bin/bash
+rm /tmp/my_first_folder/betty
